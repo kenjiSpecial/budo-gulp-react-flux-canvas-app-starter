@@ -20,6 +20,7 @@
     "budo": "*",
     "errorify": "*",
     "events": "*",
+    "gulp-sourcemaps": "^1.5.2",
     "flux": "*",
     "garnish": "*",
     "gulp": "*",
